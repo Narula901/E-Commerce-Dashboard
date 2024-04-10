@@ -26,6 +26,7 @@ Identify worst Performing Products based on Profit Margin
 
 Detailed analysis of Products and their transaction, Ordered Qty, Revneue, COGS, and Profit Margin
 
+
 <img width="874" alt="Product Analysis" src="https://github.com/Narula901/E-Commerce-Dashboard/assets/81371310/dc09603c-d318-4b72-8fe0-60f4b5dbff3b">
 
 
