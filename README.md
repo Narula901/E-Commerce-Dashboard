@@ -19,8 +19,11 @@
 
 # Product Insight Report
 Key Metrics : 
+
 Identify top-selling and Profitable Products
+
 Identify worst Performing Products based on Profit Margin
+
 Detailed analysis of Products and their transaction, Ordered Qty, Revneue, COGS, and Profit Margin
 
 
