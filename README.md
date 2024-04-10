@@ -3,6 +3,7 @@
 
 
 1. Product Insight Report:
+   
 Introduction: Briefly introduce the Product Insight report, highlighting its importance in understanding product performance.
 
 Key Metrics: Highlight key metrics such as best-selling products, top categories, and inventory turnover rate.
