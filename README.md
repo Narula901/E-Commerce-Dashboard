@@ -45,7 +45,7 @@ Identify Total Transaction and Number of Customers
 
 ![Customer Analysis](https://github.com/Narula901/E-Commerce-Dashboard/assets/81371310/9736a712-c801-40d6-adee-a864f9650107)
 
-Decision-making implications: 
+## Decision-making implications: 
 
 Based upon customer feedback and survey, Provide incentive such as special discounts, loyalty rewards, or exclusive promotion to In-frequent buyers 
 
