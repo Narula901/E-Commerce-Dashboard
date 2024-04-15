@@ -5,7 +5,7 @@
 <img width="786" alt="RelationShip Modelling" src="https://github.com/Narula901/E-Commerce-Dashboard/assets/81371310/25aab17d-ae22-482a-901f-a994a9dc6360">
 
 # Data-Set
-1. Dim_Customer - 'CustomerID', 'Customer Names'
+1. ** Dim_Customer ** - 'CustomerID', 'Customer Names'
    
 2. Dim_Product - 'ProductID', 'Product Name'
  
