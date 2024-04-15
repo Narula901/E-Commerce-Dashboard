@@ -5,7 +5,7 @@
 <img width="786" alt="RelationShip Modelling" src="https://github.com/Narula901/E-Commerce-Dashboard/assets/81371310/25aab17d-ae22-482a-901f-a994a9dc6360">
 
 # Data-Set
-1. ** Dim_Customer ** - 'CustomerID', 'Customer Names'
+1. Dim_Customer - 'CustomerID', 'Customer Names'
    
 2. Dim_Product - 'ProductID', 'Product Name'
  
@@ -55,8 +55,15 @@ Shipping and Delivery Status
 
 Identify the Total orders, Sales Channel, Gross Revneue and Gross Profit
 
-## Decision-making implications: 
+![Transactional Analysis](https://github.com/Narula901/E-Commerce-Dashboard/assets/81371310/cd848999-2739-4e57-95c8-4d6354cbeacc)
 
+
+## Decision-making implications: 
+Firstly understand the Root Cause, why orders are being shipped or delivered late. 
+This could include issues such as inventory shortages, logistical challenges, production delays, or inefficiencies in order processing.
+
+Evaluate and streamline internal processes related to order fulfillment, shipping, and delivery. 
+This may involve optimizing warehouse operations, improving inventory management systems, or implementing better logistics software to track shipments in real-time.
 
 
 
