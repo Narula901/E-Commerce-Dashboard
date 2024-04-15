@@ -98,11 +98,10 @@ Use insights from profitable location types and cities to guide decisions about 
 
 Focus marketing efforts on the top-performing cities to capitalize on existing profitability and potentially expand market share.
 
- Adjust pricing strategies based on regional demand and competition to maximize revenue in each location.
+Adjust pricing strategies based on regional demand and competition to maximize revenue in each location.
 
 
- ** Thank You **
-
+# Thank you 
 
 
 
