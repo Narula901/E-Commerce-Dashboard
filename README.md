@@ -43,6 +43,9 @@ Purchase Frequency
 
 Identify Total Transaction and Customers  
 
+![Customer Analysis](https://github.com/Narula901/E-Commerce-Dashboard/assets/81371310/9736a712-c801-40d6-adee-a864f9650107)
+
+
 
 
 
