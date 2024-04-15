@@ -18,7 +18,7 @@
                  'Order Quantity', 'Discount Applied', 'Unit Price','Unit Cost', 'Order vs shipping interval'
 
 # Product Insight Report
-Key Metrics : 
+## Key Metrics : 
 
 Identify top-selling and Profitable Products
 
@@ -30,14 +30,14 @@ Detailed analysis of Products and their transaction, Ordered Qty, Revneue, COGS,
 <img width="874" alt="Product Analysis" src="https://github.com/Narula901/E-Commerce-Dashboard/assets/81371310/dc09603c-d318-4b72-8fe0-60f4b5dbff3b">
 
 
-Decision-making implications:
+## Decision-making implications:
 
 It's really important for a company to have products that make a lot of profit. So, they should keep a lot of those popular products in stock.
 
 For the products that don't sell as much, they can offer promotions and discounts to encourage people to buy them.
 
 # Customer Analysis 
-Key Metrics : 
+## Key Metrics : 
 
 Find out the In-frequent buyers
 
