@@ -65,6 +65,24 @@ This could include issues such as inventory shortages, logistical challenges, pr
 Evaluate and streamline internal processes related to order fulfillment, shipping, and delivery. 
 This may involve optimizing warehouse operations, improving inventory management systems, or implementing better logistics software to track shipments in real-time.
 
+# Sales Team Analysis 
+## Key Metrics : 
+Identify the Sales Region based on Revenue
+
+Find Out Top 3 Sales Team
+
+Comprehensive analysis of various financial metrics such as revenue, Cost of Goods Sold (COGS), gross profit, and total transactions
+
+![Sales Team Analysis](https://github.com/Narula901/E-Commerce-Dashboard/assets/81371310/030eae1e-b2f3-4b60-bb8b-8d6649eeb463)
+
+
+## Decision-making implications: 
+Based on the revenue generated from different regions, we can allocate sales resources such as personnel, marketing budget, and inventory to regions that are performing well to further capitalize on their success.
+
+Identify regions with lower revenue and develop strategies to either expand market presence or optimize operations to improve revenue in those areas.
+
+Encourage knowledge sharing sessions where top teams can share their strategies, techniques, and best practices with other teams to improve overall performance.
+
 
 
 
