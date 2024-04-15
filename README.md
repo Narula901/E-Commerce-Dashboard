@@ -2,7 +2,7 @@
 
 ## The provided dashboard overlooks various facets of an e-commerce business, offering insights crucial for strategic decision-making. It comprises several key analyses
 
-### 1. Product Insight Report
+### 1. Product Insight 
 
 ### 2. Customer Analysis
 
@@ -11,6 +11,9 @@
 ### 4. Sales Team Analysis
 
 ### 5. Location Analysis
+
+# Here the Link of E-Commerce Dashboard
+https://app.powerbi.com/view?r=eyJrIjoiYTE0ZWU3NDMtNGI3Yi00ZTQ5LWIyYzQtODAxNzgzY2YyNDgwIiwidCI6Ijg2YTFhNGZiLTE1ODgtNDVkNC04ZjY0LTBiNDE3NGYyZTI1ZSJ9
 
 # Dashboard Overlook
 <img width="759" alt="Project Title" src="https://github.com/Narula901/E-Commerce-Dashboard/assets/81371310/f3d3823d-62f2-4482-be30-60397bdca685">
