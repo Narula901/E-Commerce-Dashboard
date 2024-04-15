@@ -39,7 +39,7 @@ For the products that don't sell as much, they can offer promotions and discount
 # Customer Analysis 
 Key Metrics : 
 
-Find out the low frequent buyers
+Find out the In-frequent buyers
 
 Identify Total Transaction and Number of Customers  
 
@@ -47,7 +47,16 @@ Identify Total Transaction and Number of Customers
 
 Decision-making implications: 
 
-Based upon customer feedback and survey, Provide incentive such as special discounts, loyalty rewards, or exclusive promotion to entice them to make another purchase 
+Based upon customer feedback and survey, Provide incentive such as special discounts, loyalty rewards, or exclusive promotion to In-frequent buyers 
+
+# Transactional Analysis 
+## Key Metrics : 
+Shipping and Delivery Status
+
+Identify the Total orders, Sales Channel, Gross Revneue and Gross Profit
+
+## Decision-making implications: 
+
 
 
 
