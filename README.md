@@ -36,6 +36,17 @@ It's really important for a company to have products that make a lot of profit. 
 
 For the products that don't sell as much, they can offer promotions and discounts to encourage people to buy them.
 
+# Customer Analysis 
+Key Metrics : 
+
+Purchase Frequency 
+
+Identify Total Transaction and Customers  
+
+
+
+
+
 
 
 
