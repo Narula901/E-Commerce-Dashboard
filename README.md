@@ -11,10 +11,10 @@
  
 3. Dim_SalesTeam - 'SalesTeamID', 'Sales Team', 'Region'
  
-4. Dim_StoreLocation - '_StoreID', 'City Name', 'County', 'StateCode', 'State', 'Type', 'Latitude', 'Longitude', 'AreaCode', 'Population', 'Household Income','Median Income', 
-                        'Land Area', 'Water Area', 'Time Zone'
+4. Dim_StoreLocation - '_StoreID', 'City Name', 'County', 'StateCode', 'State', 'Type', 'Latitude', 'Longitude', 'AreaCode', 'Population', 'Household Income',
+                        'Median Income', w'Land Area', 'Water Area', 'Time Zone'
 
-5. Fact_table - 'OrderNumber', 'Sales Channel', 'WarehouseCode', 'OrderDate','ShipDate', 'DeliveryDate', '_SalesTeamID', '_CustomerID', '_StoreID','_ProductID', 
+6. Fact_table - 'OrderNumber', 'Sales Channel', 'WarehouseCode', 'OrderDate','ShipDate', 'DeliveryDate', '_SalesTeamID', '_CustomerID', '_StoreID','_ProductID', 
                  'Order Quantity', 'Discount Applied', 'Unit Price','Unit Cost', 'Order vs shipping interval'
 
 # Product Insight Report
@@ -83,6 +83,22 @@ Identify regions with lower revenue and develop strategies to either expand mark
 
 Encourage knowledge sharing sessions where top teams can share their strategies, techniques, and best practices with other teams to improve overall performance.
 
+# Location Analysis 
+## Key Metrics : 
+Identify Top 3 Profitable Location Types and Cities
+
+Examine sales performance for each state 
+
+![Location Analysis](https://github.com/Narula901/E-Commerce-Dashboard/assets/81371310/064319ec-c8c1-4048-bbda-096858552d1a)
+
+
+
+## Decision-making implications: 
+Use insights from profitable location types and cities to guide decisions about where to open new branches or stores.
+
+Focus marketing efforts on the top-performing cities to capitalize on existing profitability and potentially expand market share.
+
+ Adjust pricing strategies based on regional demand and competition to maximize revenue in each location.
 
 
 
